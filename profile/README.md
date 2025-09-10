@@ -1,6 +1,6 @@
 # 👋 Welcome to the GitHub for AI in Maryland, or MDAI!
 The State of Maryland [responsibly, ethically, and productively leverages AI](https://doit.maryland.gov/policies/ai/Pages/maryland-responsible-ai-policy.aspx) to improve constituent outcomes and reduce drudgery for the State workforce. We achieve this goal by: 
-* [Publishing standards](https://doit.maryland.gov/policies/ai/Pages/maryland-responsible-ai-policy-implementation-guidance.aspx) for responsible, ethical AI use throughout MD State government on topics like transcription tools and vibe coding.
+* [Publishing standards](https://doit.maryland.gov/policies/ai/Pages/AI-governance-card-gemini-workspace.aspx) for responsible, ethical AI use throughout MD State government on topics like using GenAI.
 * [Building foundations and momentum for AI](https://innovate-us.org/partner/marylanddoit) via office hours, a community of practice, and free training for Maryland's civil service.
 * [Incubating AI pilots](https://doit.maryland.gov/policies/ai/Pages/maryland-AI-enablement-strategy-and-roadmap.aspx) across Maryland state agencies, then helping teams embed these pilots into their tech stacks.
 * [Shipping open source AI tools](https://github.com/DoIT-Artifical-Intelligence/colab-ytt-to-docs/blob/main/Colab_YouTube_Transcription_Extractor_And_Summarizer.ipynb) for anyone to use in Maryland and beyond.
